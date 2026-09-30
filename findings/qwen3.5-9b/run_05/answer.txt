@@ -1,0 +1,5 @@
+To find the total number of balls, add the count of red balls and blue balls together:
+
+17 (red) + 23 (blue) = 40
+
+There are 40 balls in the box.

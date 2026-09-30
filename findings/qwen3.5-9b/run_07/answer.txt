@@ -1,0 +1,5 @@
+To find the total number of balls, add the number of red balls and blue balls together:
+
+17 + 23 = 40
+
+There are 40 balls in total.
