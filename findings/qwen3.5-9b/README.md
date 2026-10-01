@@ -56,23 +56,6 @@ All 10 traces follow the same 5-phase skeleton:
 
 ---
 
-## Trace summary
-
-| # | Mentions (est.) | Colour scan | Safety misclass. | Meta-loop | Suffix |
-|---|---|---|---|---|---|
-| 1 | ~7 | ✓ | ✓ | — | `.cw` |
-| 2 | ~5 | — | — | — | `.cw` |
-| 3 | ~6 | ✓ | — | — | `.cw` |
-| 4 | ~10 | ✓ | ✓ | ✓ | — |
-| 5 | ~7 | ✓ | ✓ | — | `.cw` |
-| 6 | ~9 | ✓ | ✓ | ✓ | `.cw` |
-| 7 | ~7 | — | ✓ | — | `.cw` |
-| 8 | ~10 | ✓ | ✓ | ✓ | `.cw` |
-| 9 | ~7 | — | — | — | `.cltr` |
-| 10 | ~12 | ✓ | ✓ | ✓ | — |
-
----
-
 ## Key quotes
 
 > *"This is a standard constraint test to see if I violate the negative constraint."* — T1
